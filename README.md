@@ -46,15 +46,14 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
-##Support Removal Process
+
 
 ![image](https://github.com/NARESHVB/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393642/7dfe9097-1755-48ee-8535-bbc0ceaca8d3)
 
-##UV Curing of 3D printed part
+
 
 ![image](https://github.com/NARESHVB/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393642/a0ccf601-3807-4442-ac63-75bba51c6dc3)
 
-##Heat Treatment of 3D printed part
 
 ![image](https://github.com/NARESHVB/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393642/665c8e9e-f861-4382-b835-faf096be0b9d)
 
